@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="utf-8">
     <title>Travela - Your Gateway to Unforgettable UAE Experiences</title>
