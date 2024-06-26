@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /404.html
+
+Sitemap: https://www.example.com/sitemap.xml
