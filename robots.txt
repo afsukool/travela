@@ -5,4 +5,4 @@ Disallow: /tmp/
 Disallow: /private/
 Disallow: /404.html
 
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://afsukool.github.io/travela/sitemap.xml
